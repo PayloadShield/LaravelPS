@@ -3,18 +3,18 @@
     "description": "Pluggable Laravel middleware for encrypting/decrypting request and response payloads.",
     "type": "library",
     "license": "Apache-2.0",
-    "keywords": ["laravel", "crypto", "encryption", "payloadshield", "middleware"],
+    "keywords": [
+        "laravel",
+        "crypto",
+        "encryption",
+        "payloadshield",
+        "middleware"
+    ],
     "homepage": "https://github.com/PayloadShield/LaravelPS",
     "authors": [
         {
             "name": "Ganesh Kandu",
             "email": "kanduganesh@gmail.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "path",
-            "url": "../ComPHPPS"
         }
     ],
     "require": {
